@@ -29,9 +29,8 @@
  </p>
 <div align="center">
   <a href="https://github.com/Phellp/">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Phellp&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Phellp&layout=compact&langs_count=7&theme=dracula"/>
-</div>
+ <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=phellp&theme=github_dark&show_icons=true&locale=en&layout=compact" alt="phellp" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=phellp&theme=github_dark&show_icons=true)" alt="phellp" /></p>
 
   ##
 
