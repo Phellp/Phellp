@@ -27,10 +27,10 @@
 
 
  </p>
-<div align="center">
+
  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=phellp&theme=github_dark&show_icons=true&locale=en&layout=compact" alt="phellp" /></p>
-<p>&nbsp;<img align="center-right" src="https://github-readme-stats.vercel.app/api?username=phellp&theme=github_dark&show_icons=true)" alt="phellp" /></p>
-</div>
+<p>&nbsp;<img align="" src="https://github-readme-stats.vercel.app/api?username=phellp&theme=github_dark&show_icons=true)" alt="phellp" /></p>
+
   
   ##
 
