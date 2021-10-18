@@ -11,7 +11,7 @@
 
 
 <link rel = "stylesheet" href = "https://cdn.jsdelivr.net/gh/devicons/devicon@v2.14.0/devicon.min.css">
-
+<div style="display: inline_block"><br>
 <h3 align="left">Linguagens e ferramentas:</h3>
 <p align="left"> 
 <img src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40" height="40"/>
@@ -22,15 +22,16 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" width="40" height="40"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original-wordmark.svg" width="40" height="40"/>
-
+</div>
+  
 
 
  </p>
-
-<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=phellp&theme=github_dark&show_icons=true&locale=en&layout=compact" alt="phellp" /></p>
-
-<p>&nbsp;<img align=="left"" src="https://github-readme-stats.vercel.app/api?username=phellp&theme=github_dark&show_icons=true" alt="phellp" /></p>
-
+<div align="center">
+  <a href="https://github.com/Phellp/">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Phellp&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Phellp&layout=compact&langs_count=7&theme=dracula"/>
+</div>
 
   ##
 
