@@ -29,14 +29,13 @@
  </p>
 <div align="center">
  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=phellp&theme=github_dark&show_icons=true&locale=en&layout=compact" alt="phellp" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=phellp&theme=github_dark&show_icons=true)" alt="phellp" /></p>
+<p>&nbsp;<img align="center-right" src="https://github-readme-stats.vercel.app/api?username=phellp&theme=github_dark&show_icons=true)" alt="phellp" /></p>
 </div>
   
   ##
 
 
 <h3 align="left">Contate-me:</h3>
-<p align="left">
+
 <a href="https://linkedin.com/in/felipe santos" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="felipe santos" height="30" width="40" /></a>
 <a href="https://kaggle.com/felipejesusdossantos" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="felipejesusdossantos" height="30" width="40" /></a>
-</p>
