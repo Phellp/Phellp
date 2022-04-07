@@ -24,5 +24,3 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original-wordmark.svg" width="40" height="40"/>
 </div>
   
-
-(https://github.com/Phellp/Phellp/blob/output/github-contribution-grid-snake.svg)
