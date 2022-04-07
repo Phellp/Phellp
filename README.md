@@ -3,9 +3,9 @@
 
 
 
-- 🔭 Atualmente estou trabalhando **na G4F**
-- 👯 Eu procuro colaborar em **projetos de ciencia de dados**
-- 💬 Me pergunte sobre **tecnologia, ciencia de dados e IA**
+- 🔭 Atualmente estou trabalhando **na Falqon**
+- 👯 Eu procuro colaborar em **projetos de analise, ciência e engenharia de dados**
+- 💬 Me pergunte sobre **Analise, ciencia e engenharia de dados, estatistica e IA**
 - 📫 Fale comigo em **felipe.jesus.st@hotmail.com**
 - 📄 Saiba mais sobre mim em [https://www.linkedin.com/in/felipe-santos-740014142/](https://www.linkedin.com/in/felipe-santos-740014142/)
 
