@@ -25,6 +25,4 @@
 </div>
   
 
-
-
-![Snake animation](https://github.com/Phellp/Phellp/blob/output/github-contribution-grid-snake.svg)
+(https://github.com/Phellp/Phellp/blob/output/github-contribution-grid-snake.svg)
