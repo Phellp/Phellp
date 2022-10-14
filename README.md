@@ -22,6 +22,6 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" width="40" height="40"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original-wordmark.svg" width="40" height="40"/>
-<img style="display: block;-webkit-user-select: none;margin: auto;cursor: zoom-in;background-color: hsl(0, 0%, 90%);transition: background-color 300ms;" src="https://www.qlik.com/us/-/media/images/qlik/global/qlik-logo-2x.png?rev=1167e952ae934867bc9ee7f3d4952e1f" width="212" height="61">
+<img style="display: block;-webkit-user-select: none;margin: auto;cursor: zoom-in;background-color: hsl(0, 0%, 90%);transition: background-color 300ms;" src="https://www.qlik.com/us/-/media/images/qlik/global/qlik-logo-2x.png?rev=1167e952ae934867bc9ee7f3d4952e1f" width="190" height="59">
 </div>
   
